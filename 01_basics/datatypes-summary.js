@@ -35,3 +35,19 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+/*
+**Primitive DataTypes**
+    String  = string
+    Number = number
+    Decimal = number
+    Boolean = boolean 
+    null = object
+    undefined = undefined
+    Symbol = symbol
+    BIGInt = bigInt
+
+**Non-Primitive DataTypes**
+    Array = object
+    Function = function (But say it function object)
+    Object = object
+*/
